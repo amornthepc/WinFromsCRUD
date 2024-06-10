@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Employees] (Table)
+       [dbo].[Jobs] (Table)
+       [dbo].[FK_Employees_Jobs] (Foreign Key)
+       [dbo].[spEmployee_ViewAll] (Procedure)
+       [dbo].[spEmployees_DeleteById] (Procedure)
+       [dbo].[spEmployees_Insert] (Procedure)
+       [dbo].[spEmployees_Update] (Procedure)
+
+** Supporting actions

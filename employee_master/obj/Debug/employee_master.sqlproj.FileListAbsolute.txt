@@ -1,0 +1,10 @@
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\bin\Debug\employee_master.dacpac
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\bin\Debug\employee_master.dll
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\bin\Debug\employee_master.pdb
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\employee_master.sqlproj.AssemblyReference.cache
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\Model.xml
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\refactor.xml
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\postdeploy.sql
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\predeploy.sql
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\employee_master.dll
+D:\Amornthep\SimilanExam\SimilanCrud\EmployeeApp\employee_master\obj\Debug\employee_master.pdb
